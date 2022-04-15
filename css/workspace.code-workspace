@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\uber-eats-landing-main"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "site-1"
+  }
+}
